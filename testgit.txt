@@ -1,3 +1,2 @@
 test git 20161116
-version 1.0
-version 1.1 update
+version 1.0 -> 1.1 update
